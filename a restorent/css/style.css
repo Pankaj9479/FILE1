@@ -446,16 +446,18 @@ input#fname {
     margin-top: 6px;
     width: 51%;
 }
+
 .boxes1 {
     width: 20%;
     display: inline-block;
     margin: 28px;
-
 }
+
 .boxes2 {
     width: 20%;
     float: left;
 }
+
 .boxes1 a {
     text-decoration: none;
     font-size: 23px;
